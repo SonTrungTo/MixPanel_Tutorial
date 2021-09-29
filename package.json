@@ -1,0 +1,23 @@
+{
+  "name": "mixpanel_tutorial",
+  "version": "1.0.0",
+  "description": "mixpanel testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonTrungTo/MixPanel_Tutorial.git"
+  },
+  "author": "Son To",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SonTrungTo/MixPanel_Tutorial/issues"
+  },
+  "homepage": "https://github.com/SonTrungTo/MixPanel_Tutorial#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mixpanel-browser": "^2.41.0"
+  }
+}
